@@ -19,6 +19,75 @@ font-family: 'Spectral', serif;
     text-decoration: none;
 }
 
+/* bodies for each page */
+
+
+/* index
+
+
+source: pexels.com
+*/
+
+/* home page */
+
+.mainpage{
+    background-image: url("https://images.pexels.com/photos/4676369/pexels-photo-4676369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* how to help */
+
+.howtohelppage{
+    background-image: url("https://images.pexels.com/photos/4613911/pexels-photo-4613911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+/* education */
+
+/*main educ. */
+
+.educatepage{
+    background-image: url("https://images.pexels.com/photos/4613884/pexels-photo-4613884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    /* source: pexels.com*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+/* events and locations*/
+
+.sigeventpage{
+    background-image: url("https://cdn.britannica.com/88/136088-050-17171BF5/Pres-Lyndon-B-Johnson-others-Martin-Luther-July-2-1964.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+/* peoples */
+.sigpeoplepage{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/black-history-month-1548883002.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+/* why page */
+.whypage{
+    background-image: url("https://images.pexels.com/photos/4613880/pexels-photo-4613880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
 /* nav bar */
 
 pre{
