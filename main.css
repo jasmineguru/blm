@@ -149,6 +149,22 @@ a.hoverer:hover{
     background-color: #112d32;
 }
 
+/* slide show */
+
+.slide-container{
+    position: relative;
+
+}
+
+.slide img{
+    width: 100%;
+    height: 700px;
+}
+
+.effect slide{
+
+}
+
 
 
      
