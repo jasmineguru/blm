@@ -45,35 +45,52 @@ font-family: 'Spectral', serif;
 .sectionals{
     background-color: white;
     border-radius: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 190px;
+    margin-right: 210px;
     margin-top: 40px;
     margin-bottom: 20px;
-    width: 1200px;
+    width: 1050px;
 }
 
-.imges{
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
-    display: block;
+
+.container{
+    margin: 40px auto;
+    padding: 10px;
 }
-.ul{
-    padding: 40px
-}
-.li{
-    list-style-type: circle;
-    font-family: 'Spectral', serif;
-    max-width: 1000px;
-    text-align: justify;
+
+.imgesright{
+    float: right;
+    padding: 40px;
     
+} 
 
+.imagesleft{
+    float: right;
+    padding: 40px;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Spectral', serif;
+    font-size: 20px;
+    padding: 15px;
+    color: rgb(20, 20, 20);
+    
+}
+
+
+.sigpeopleh2{
+    font-family: 'Libre Caslon Display', serif;
+    padding: 10px;
+    color: rgb(8, 23, 26);
+    margin: 20px;
 }
 
 .sigpeopleh1{
     font-family: 'Libre Caslon Display', serif;
-    padding: 20px;
-    color: rgb(39, 38, 73);
+    padding: 10px;
+    color: rgb(56, 47, 39);
+    margin: 10px;
 }
 
 .educatepage{
